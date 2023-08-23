@@ -1,5 +1,12 @@
 # Swisstronik-code-challenges
 
+## Chalenge Weeek 1
+
+### Challenge Details
+
+- Mission: acquire tokens from the faucet and dispatch 0.1 SWTR tokens to the realm at 0x16af037878a6cAce2Ea29d39A3757aC2F6F7aac1
+
+
 ## Chalenge Weeek 2
 
 ### Challenge Details
