@@ -16,7 +16,7 @@ https://link.swisstronik.com/6zu
 
   Get ready to dive into the world of smart contracts and show us what you've got! 🛠️💡
 
-  ## Chalenge Week 3
+## Chalenge Week 3
 
 ### Challenge Details
 
